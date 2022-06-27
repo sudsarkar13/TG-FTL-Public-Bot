@@ -42,6 +42,40 @@ Press the below button to Fast deploy on Heroku
 </details>
 
 <details>
+  <summary><b>Host it on VPS Locally :</b></summary>
+
+
+```py
+git clone https://github.com/technoranch/TG-FTL-Public-Bot.git
+cd TG-FTL-Public-Bot
+virtualenv -p /usr/bin/python3 venv
+. ./venv/bin/activate
+pip install -r requirements.txt
+python3 -m TechnoRanch
+```
+
+and to stop the whole bot,
+ do <kbd>CTRL</kbd>+<kbd>C</kbd>
+
+Setting up things
+
+If you're on Heroku, just add these in the Environmental Variables
+or if you're Locally hosting, create a file named `config.env` in the root directory and add all the variables there.
+An example of `config.env` file:
+
+```py
+API_ID=12345
+API_HASH=esx576f8738x883f3sfzx83
+BOT_TOKEN=55838383:yourtbottokenhere
+BIN_CHANNEL=-100
+PORT=8080
+FQDN=your_server_ip
+OWNER_ID=your_user_id
+DATABASE_URL=mongodb_uri
+```
+  </details>
+
+<details>
   <summary><b>Vars and Details :</b></summary>
 
 `API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
