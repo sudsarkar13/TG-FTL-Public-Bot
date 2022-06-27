@@ -1,4 +1,3 @@
-#(c) Adarsh-Goel
 import datetime
 import motor.motor_asyncio
 
