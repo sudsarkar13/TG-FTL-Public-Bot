@@ -1,4 +1,3 @@
-# (c) adarsh-goel
 
 
 import time
