@@ -94,7 +94,7 @@
           "required": false
       },
       "SESSION_NAME": {
-          "description": " Session Name for Bot [ Add adarsh-goel]",
+          "description": " Session Name for Bot [ Add technoranch]",
           "value": "File-To-Link",
           "required": false
       }
