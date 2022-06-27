@@ -1,10 +1,9 @@
-# (c) adarsh-goel
 
 import asyncio
 import logging
 from ..vars import Var
 from pyrogram import Client
-from Adarsh.utils.config_parser import TokenParser
+from TechnoRanch.utils.config_parser import TokenParser
 from . import multi_clients, work_loads, StreamBot
 
 
