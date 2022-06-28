@@ -1,3 +1,4 @@
+# (c) TechnoRanch
 
 
 def humanbytes(size):
