@@ -1,3 +1,4 @@
+# (c) TechnoRanch
 import datetime
 import motor.motor_asyncio
 
