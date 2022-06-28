@@ -1,3 +1,4 @@
+# (c) TechnoRanch
 from TechnoRanch.bot import StreamBot
 from TechnoRanch.vars import Var
 import logging
