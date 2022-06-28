@@ -1,4 +1,4 @@
-# (c) adarsh-goel
+# (c) TechnoRanch
 
 import asyncio
 import traceback
