@@ -1,4 +1,4 @@
-# (c) TechnoRanch
+# (c) @TechnoRanch
 import os
 import time
 import string
