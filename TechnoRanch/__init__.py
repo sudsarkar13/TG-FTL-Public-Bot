@@ -1,4 +1,4 @@
-# (c) TechnoRanc
+# (c) TechnoRanch
 
 
 import time
