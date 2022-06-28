@@ -1,3 +1,4 @@
+# (c) TechnoRanch
 import os
 import asyncio
 from asyncio import TimeoutError
