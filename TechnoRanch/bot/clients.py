@@ -1,3 +1,4 @@
+# (c) TechnoRanch
 
 import asyncio
 import logging

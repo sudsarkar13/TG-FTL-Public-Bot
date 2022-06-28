@@ -1,3 +1,4 @@
+# (c) TechnoRanch
 import os
 import sys
 import glob

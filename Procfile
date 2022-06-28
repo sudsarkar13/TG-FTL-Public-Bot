@@ -1,2 +1,2 @@
-web: python -m Sudeepta
+web: python -m TechnoRanch
 
